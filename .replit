@@ -1,2 +1,2 @@
 language = "java8"
-run = "javac DataStructures.java && java DataStructures"
+run = "javac DataStructures2.java && java DataStructures2"
